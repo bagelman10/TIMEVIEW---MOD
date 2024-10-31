@@ -1,4 +1,4 @@
-# TIMEVIEW
+# TIMEVIEW---MOD
 
 This has been cloned from the original repository for the paper "Towards Transparent Time Series Forecasting". I have cloned it here as a playground to modify the code for finance data testing. 
 
