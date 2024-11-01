@@ -11,10 +11,10 @@ dependencies:
   - matplotlib=3.7.1
   - pandas=2.0.1
   - pip=23.1.2
-  - py-xgboost=1.7.4
+  - #py-xgboost=1.7.4  this was having issues with xgboost in the pip dependencies
   - python=3.10.10
   - pytorch=2.0.0
-  - pytorch-cuda=11.7
+  - #pytorch-cuda=11.7 #not compatible with Macbook
   - pytorch-lightning=2.0.2
   - scikit-learn=1.2.2
   - scipy=1.8.1
